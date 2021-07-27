@@ -53,8 +53,8 @@ public class tamgiac {
         System.out.println("Canh A:"+this.a);
         System.out.println("Canh B:"+this.b);
         System.out.println("Canh C:"+this.c);
-        System.out.println("Chu Vi:"+this.tinhChuVi());
-        System.out.println("Dien Tich:"+this.tinhDienTich());
+        System.out.println("Chu Vi Tam Giac:"+this.tinhChuVi());
+        System.out.println("Dien Tich Tam Giac:"+this.tinhDienTich());
         
     }
     public void Nhap()
